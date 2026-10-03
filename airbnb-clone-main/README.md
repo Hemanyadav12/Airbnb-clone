@@ -107,3 +107,5 @@ check_in < requested_check_out AND check_out > requested_check_in
 - Listing photo upload is represented by URL input. Cloud upload is out of scope.
 - Map/geolocation is represented by a static visual map panel with price pins.
 - Messaging, identity verification, and real payment processing are placeholders/out of scope.
+
+# Testing webhook ingestion
